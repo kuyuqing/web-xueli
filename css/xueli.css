@@ -1,0 +1,104 @@
+.header{
+	height: 51px;
+}
+.container{
+	width: 600px;
+	margin: 0 auto;
+}
+.logo{
+	padding-top: 16px;
+	float: left;
+}
+.nav {
+	
+	float: left;
+}
+.nav li{
+	padding-top: 20px;
+	float: left;
+    text-align: center;
+    width:50px;
+	font-size:9px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+}
+.nav a{
+	color:rgba(5,5,5,1);
+
+}
+a:hover{
+    text-decoration: underline;
+    border-style: 1px blue;
+}
+.form{
+	float: right;
+	margin-top: 15px;
+}
+.search{
+	float: left;
+	width: 180px;
+	height: 10px;
+	border:1px solid rgba(0,163,255,1);
+	padding:6px;
+	padding-left: 9px;
+}
+.submit{
+	float: left;
+	width: 20px;
+	height: 25px;
+	background:rgba(0,163,255,1) url(../img/fa-search.png) no-repeat center center;
+	border:none;
+}
+.geren{
+	float: right;
+	width:30px;
+	height:6px;
+	font-size:7px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+
+}
+.geren a{
+		color:rgba(102,102,102,1);
+}
+.logo2{
+
+	width: 600px;
+	margin: 0 auto;
+	height:210px;
+	
+}
+.banner{
+
+	background:rgba(28,3,108,1);
+}
+.wenzi{
+	
+
+}
+.tuinav li{
+            width:160px;
+            height:80px;
+            text-align:center;
+            line-height:80px;
+            border-right: 2px solid rgba(0, 0, 0, 1);
+        	}
+.tuinav>ul>li{
+            float:left;
+            position:relative;
+        	}
+.tuinav ul{
+        		margin-left:150px;
+        	}
+.container1
+{
+	width: 600px;
+	margin: 0 auto;
+}
+.container1 li{
+	list-style: none;
+	float: left;
+	width: 85px;
+	margin: 16px;
+	height: 270px;
+}
